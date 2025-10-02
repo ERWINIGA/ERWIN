@@ -1,0 +1,8 @@
+El Plugin que he utilizado para dar mas interactividad a mi pagina web Slick Carousel
+https://code.jquery.com/jquery-3.6.0.min.js
+Slick es un complemento jQuery para crear controles deslizantes de contenido versátiles y responsivos.
+ Slick se puede utilizar para crear hermosas galerías de imágenes con miniaturas.
+ en este caso fue usado para poner lo que son videos 
+ hay alguna imagenes que ya no agregue porq no se donde ubicarlas todavia hacen falta videos
+ en el canal asi que quedan de reserva
+ 
